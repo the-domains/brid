@@ -1,0 +1,28 @@
+name: Brid
+favicon: null
+layout_spectrum: 0.30976946256123483
+typography_spectrum: 0.5527232794556767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9227865601424128
+  lightness: 0.02658717310987413
+  saturation: 0.9684545518830419
+  rhythmicContrast: 0.3996799315791577
+purpose: []
